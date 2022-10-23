@@ -1,0 +1,13 @@
+{
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "Igor Suvorov",
+            "email": "mechta.duraka@mail.ru"
+        }
+    ],
+    "require": {
+        "php":">=8.1.0",
+        "ext-json": "*"
+    }
+}
