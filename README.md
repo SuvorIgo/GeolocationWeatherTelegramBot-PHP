@@ -1,7 +1,9 @@
 # GeolocationWeatherTelegramBot-PHP
 
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/SuvorIgo/GeolocationWeatherTelegramBot-PHP">
-<img alt="Relative date" src="https://img.shields.io/date/1666549781">
+<div align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/SuvorIgo/GeolocationWeatherTelegramBot-PHP">
+  <img alt="Relative date" src="https://img.shields.io/date/1666549781">
+</div>
 
 ***
 <a href="https://ibb.co/ZJFY5QB"><img src="https://i.ibb.co/n0Yn9X7/geo.jpg" alt="geo" border="0" align="center"></a>
