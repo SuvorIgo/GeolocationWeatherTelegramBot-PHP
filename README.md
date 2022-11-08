@@ -6,7 +6,7 @@
 </div>
 
 ***
-<a href="https://ibb.co/ZJFY5QB"><img src="https://i.ibb.co/n0Yn9X7/geo.jpg" alt="geo" border="0" align="center"></a>
+<div align="center"><a href="https://ibb.co/ZJFY5QB"><img src="https://i.ibb.co/n0Yn9X7/geo.jpg" alt="geo" border="0"></a></div>
 
 ## Описание
 Данный бот предназначен для определения погоды по переданным пользоветелем Telegram'a данным о своей геолокации.
